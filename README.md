@@ -9,10 +9,10 @@ Misal, 123 menjadi seratus dua puluh tiga
 Anda bisa menggunakan modul ini dengan cara:
 1. Download file terbilang.py
 2. Impor modul di file Anda
-   ...
-   from terbilang import terbilang
-   ...
+'''python
+from terbilang import terbilang
+'''
 3. Gunakan
-   ...
-   terbilang(56) #Ini akan mengembalikan nilai berupa string 'lima puluh enam'
-   ...
+'''python
+terbilang(56) #Ini akan mengembalikan nilai berupa string 'lima puluh enam'
+'''
